@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nitesh Pandey</h1>
 <h3 align="center">A passionate full stack web developer from india</h3>
 
-<img  align="right" width="345" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif" alt="Coding">
+<img  align="right" width="345" 
+style="border-radius: 20%;"
+src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif" alt="Coding">
 <p align="left">
   <img
-    src="https://komarev.com/ghpvc/?username=pandey-ji99&label=Profile%20views&color=0e75b6&style=flat"
+    src="https://komarev.com/ghpvc/?username=lexarcoder&label=Profile%20views&color=0e75b6&style=flat"
     alt="pandey-ji99"
   />
 </p>
@@ -177,4 +179,37 @@ am cool boy😉**
     src="https://github-readme-streak-stats.herokuapp.com/?user=lexarcoder&"
     alt="lexarcoder"
   />
+</p>
+
+## 📈 GitHub Stats & Contributions
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RohitSinghCodes&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitSinghCodes&layout=compact&langs_count=10&theme=radical" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RohitSinghCodes&theme=radical" height="160" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RohitSinghCodes&theme=radical&title=Stars,Followers,Commits,Repositories,PullRequest" />
+</p>
+
+---
+
+## 📜 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohitSinghCodes&theme=react-dark" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Ready+to+Collaborate+%26+Create+Impactful+Tech+Together!+Let's+Connect+%F0%9F%A4%9D">
 </p>
