@@ -24,32 +24,32 @@ am cool boy😉**
       align="center"
       src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif"
       alt="lexarcoder"
-      height="30"
-      width="40"
+      height="50"
+      width="50"
   /></a>
   <a href="https://fb.com/lexarcoder" target="blank"
     ><img
       align="center"
       src="https://cliply.co/wp-content/uploads/2019/07/371907490_FACEBOOK_ICON_TRANSPARENT_400.gif"
       alt="lexarcoder"
-      height="30"
-      width="40"
+      height="50"
+      width="50"
   /></a>
   <a href="https://instagram.com/lexarcoder" target="blank"
     ><img
       align="center"
       src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif"
       alt="lexarcoder"
-      height="30"
-      width="40"
+      height="50"
+      width="50"
   /></a>
   <a href="https://www.leetcode.com/lexarcoder" target="blank"
     ><img
       align="center"
       src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3628885-3030025.png"
       alt="lexarcoder"
-      height="30"
-      width="40"
+      height="35"
+      width="35"
   /></a>
 </p>
 
